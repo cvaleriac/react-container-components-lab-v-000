@@ -13,4 +13,4 @@ MovieReviews.defaultProps = {
   reviews: []
 }
 
-export default MovieReview
+export default MovieReview;
